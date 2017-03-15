@@ -17,3 +17,10 @@ $ gulp serve
 ## Troubleshooting
 * Run npm install gulp -g and/or npm install gulp (at home directory level?)
 * Add %AppData%\npm\node_modules to pat with variable name NODE_PATH
+
+## Steps
+* Copy gulpfile.js
+* Copy bower.json
+* Copy package.json
+* Copy readme
+* all else will be created when do the install etc. above.
