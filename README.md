@@ -22,5 +22,5 @@ $ gulp serve
 * Copy gulpfile.js
 * Copy bower.json
 * Copy package.json
-* Copy readme
+* Copy .gitignore
 * all else will be created when do the install etc. above.
